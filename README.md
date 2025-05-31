@@ -1,4 +1,4 @@
-<h2 align="left"Hi 👋! I'm Bao Anh, a passionate programmer and tech enthusiast from Vietnam 🇻🇳./h2>
+  <h2 align="left"Hi 👋! I'm Bao Anh, a passionate programmer and tech enthusiast from Vietnam 🇻🇳 </h2>
 
 ###
 
@@ -69,6 +69,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/BaoAnh020603/BaoAnh020603/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/BaoAnh020603/BaoAnh020603/output/github-snake.svg" />alt="Snake animation" />
 
 ###
