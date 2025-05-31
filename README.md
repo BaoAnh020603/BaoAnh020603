@@ -72,3 +72,21 @@
 <img src="https://raw.githubusercontent.com/BaoAnh020603/BaoAnh020603/output/github-snake.svg" />
 
 ###
+<br>
+<h2 align="center">👽 Where to find me 👽</h2>
+<br>
+<!-- https://icons8.com -->
+<div align="center">
+  
+  <a href="https://www.facebook.com/anh.john.794288/" target="_blank">
+    <img src="https://img.icons8.com/bubbles/100/000000/facebook-new.png" alt="BaoAnh-facebook" />
+  </a>
+  <a href="https://www.linkedin.com/in/bao-anh-nguyen-nhat-7891722a7/" target="_blank">
+    <img src="https://img.icons8.com/bubbles/100/000000/linkedin.png" alt="BaoAnh-linkedin" />
+  </a>
+  <a href="mailto:baoanh020603@gmail.com" target="top">
+    <img src="https://img.icons8.com/bubbles/100/000000/apple-mail.png" alt="BaoAnh-email" />
+  </a>
+</div>
+
+<br>
