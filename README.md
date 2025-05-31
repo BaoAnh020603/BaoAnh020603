@@ -69,6 +69,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/BaoAnh020603/BaoAnh020603/output/github-snake.svg" />alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/BaoAnh020603/BaoAnh020603/output/github-snake.svg" />alt="" />
 
 ###
