@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Bao Anh and I'm a person who loves programming and technology, from Viet Nam</h2>
+<h2 align="left"Hi 👋! I'm Bao Anh, a passionate programmer and tech enthusiast from Vietnam 🇻🇳.</h2>
 
 ###
 
