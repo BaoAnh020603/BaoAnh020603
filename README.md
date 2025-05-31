@@ -12,7 +12,7 @@
 <img align="right" height="150" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExc3J1eTF3Y3gwc3A1aWlkeWpzaDU0ZDFuaTI1OW5raDkxemhqd3ExNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/S9d8XB557e8phGLBVS/giphy.gif"  />
 
 ###
-
+<h2 align="center">🛠 Technologies and Tools 🛠</h2>
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
