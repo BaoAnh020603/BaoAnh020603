@@ -1,4 +1,4 @@
-  # Hello World!, I'm Anh, a VietNam Developer 👋🏼:
+  # Hello World!, I'm Anh, a person with a passion for technology and programming 👋🏼:
 
 ###
 
