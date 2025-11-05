@@ -1,5 +1,5 @@
 <!-- Greeting -->
-<h1 align="center">Hi 👋, I'm Anh</h1>
+<h1 align="center">Hi 👋, I'm Bao Anh</h1>
 <h3 align="center">A passionate developer who loves technology, music 🎧 & creativity 🚀</h3>
 
 <p align="center">
