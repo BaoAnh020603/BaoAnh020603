@@ -24,20 +24,29 @@
 ## 🧠 Tech Stack
 <div align="center">
 
-### 💻 Languages  
-<img src="https://skillicons.dev/icons?i=python,js,ts,java">
+### 💻 Languages
+<img src="https://skillicons.dev/icons?i=python,js,ts,java,cpp,php,rust">
 
-### ⚙️ Frameworks  
-<img src="https://skillicons.dev/icons?i=nodejs,react,express,fastapi">
+### ⚙️ Frameworks & Libraries
+<img src="https://skillicons.dev/icons?i=nodejs,react,nextjs,express,fastapi,flask,tailwind,bootstrap">
 
-### 🧰 Tools  
-<img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode,replit">
+### 🧠 AI / ML
+<img src="https://skillicons.dev/icons?i=tensorflow,opencv">
 
-### 🗄 Databases  
-<img src="https://skillicons.dev/icons?i=mysql,mongodb">
+### 🧰 Tools & Platforms
+<img src="https://skillicons.dev/icons?i=git,github,gitlab,docker,linux,bash,vscode,idea,postman,replit">
 
-### 🎨 Creative  
-<img src="https://skillicons.dev/icons?i=figma,ps,ae,pr">
+### 🗄 Databases
+<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis,firebase">
+
+### ☁️ Cloud & DevOps
+<img src="https://skillicons.dev/icons?i=aws,vercel">
+
+### 🎨 UI/UX & Creative Tools
+<img src="https://skillicons.dev/icons?i=figma,ps">
+
+### 🎧 Streaming / Music Bots
+<img src="https://skillicons.dev/icons?i=discord">
 
 </div>
 
