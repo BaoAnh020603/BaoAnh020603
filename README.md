@@ -73,7 +73,6 @@
 <div align="center">
   <img src="https://raw.githubusercontent.com/BaoAnh020603/BaoAnh020603/output/github-snake.svg"/>
 </div>
-
 <br>
 
 <div align="center">
