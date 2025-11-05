@@ -2,7 +2,7 @@
   <img src="https://i.imgur.com/4ASafy0.gif" width="600">
 </div>
 
-<h1 align="center">🌌 Hi, I'm Anh — Creative Developer & Automation Builder 👾</h1>
+<h1 align="center">🌌 Hi, I'm Bao Anh — Creative Developer & Automation Builder 👾</h1>
 
 <p align="center">
   I build tools, bots, automation systems and creative experiences.  
