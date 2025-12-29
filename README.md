@@ -37,7 +37,7 @@
 <img src="https://skillicons.dev/icons?i=git,github,gitlab,docker,linux,bash,vscode,idea,postman,replit">
 
 ### 🗄 Databases
-<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis,firebase">
+<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis,firebase,supabase">
 
 ### ☁️ Cloud & DevOps
 <img src="https://skillicons.dev/icons?i=aws,vercel">
